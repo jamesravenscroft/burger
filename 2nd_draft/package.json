@@ -1,0 +1,31 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "hw14",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesravenscroft/burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesravenscroft/burger/issues"
+  },
+  "homepage": "https://github.com/jamesravenscroft/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {}
+}
